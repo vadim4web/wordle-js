@@ -6,7 +6,7 @@ The WORDLE Game Project is a web-based word-guessing game where players try to g
 
 ## Project Screenshot
 
-[![Project Screenshot](https://github.com/vadym4che/wordle-js/blob/main/screenshot.png)](https://vadym4che.github.io/wordle-js/)
+[![Project Screenshot](https://github.com/1abcdesign/wordle-js/blob/main/screenshot.png)](https://1abcdesign.github.io/wordle-js/)
 
 ## HTML
 
@@ -61,4 +61,4 @@ To play the WORDLE game:
 
 ## Author
 
-(č) Vadym Chervoniak
+(č) Vadym Chervoniak-Bogdanov

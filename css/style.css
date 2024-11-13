@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttons {
+    width: 58vh;
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button {
+    height: 5vh;
+    width: 20vh;
+    font-size: 200%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    display: block;
+    width: 10vh;
+    height: 10vh;
+    border: solid black;
+    text-align: center;
+    line-height: 10vh;
+    font-size: 9vh;
+}
+
+button,
+input {
+    border-radius: 1vh;
+    -webkit-border-radius: 1vh;
+    -moz-border-radius: 1vh;
+    -ms-border-radius: 1vh;
+    -o-border-radius: 1vh;
+}
+
+input:focus {
+    color: maroon;
+    background-color: bisque;
+}
+
+header {
+    color: maroon;
+    font-size: 200%;
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header h2 {
+    display: block;
+    margin: 0;
+    font-size: 2.125rem;
+}
+
+.activated {
+    background-color: maroon;
+    color: bisque;
+    font-weight: 500;
+}
+
+.activated:hover {
+    background-color: bisque;
+    color: maroon;
+    font-weight: 700;
+}
+
+.activated:active {
+    background-color: bisque;
+    color: black;
+    font-weight: 700;
+}

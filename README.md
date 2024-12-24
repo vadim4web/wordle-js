@@ -6,7 +6,7 @@ The WORDLE Game Project is a web-based word-guessing game where players try to g
 
 ## Project Screenshot
 
-[![Project Screenshot](https://github.com/1abcdesign/wordle-js/blob/main/screenshot.png)](https://1abcdesign.github.io/wordle-js/)
+[![Project Screenshot](https://github.com/vadim4web/wordle-js/blob/main/screenshot.png)](https://vadim4web.github.io/wordle-js/)
 
 ## HTML
 
